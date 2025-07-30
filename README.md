@@ -1,46 +1,63 @@
-# 🕳️ Kayque Souza
+# void explore() { 🗡️
 
-> _"Every line of code echoes deeper when written with purpose."_  
+```ascii
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║                                                               ║
+    ║    "In the deepest darkness, we find our strongest code"      ║
+    ║                                                               ║
+    ╚═══════════════════════════════════════════════════════════════╝
+```
 
-Olá! Me chamo **Kayque Alekssey de Andrade Mendes de Souza**.  
-Sou estudante de **Ciência da Computação** e iniciante na arte do desenvolvimento seguro.  
-Acredito que escrever software é mais do que entregar funcionalidades — é construir algo que respira segurança, clareza e intenção.
+## The Knight's Path 🌑
+
+Currently wandering through the depths of **secure development**, wielding languages like ancient tools and forging solutions in the shadows of cybersecurity.
+
+### ⚔️ Arsenal
+```go
+func getCurrentSkills() []string {
+    return []string{
+        "Go",      // The sharp blade
+        "Python",  // The versatile tool  
+        "C/C#",    // The heavy weapons
+        "Java",    // The reliable sword
+        "SQL",     // The data crystal
+    }
+}
+```
+
+### 🛡️ Guarding Against
+- **Application Security** → Protecting the realm's gates
+- **Secure Development** → Crafting unbreachable fortresses  
+- **Identity & Access Management** → Keeping the keys safe
+
+### 🔍 Current Quest
+```javascript
+const currentFocus = {
+    studying: "Computer Science @ Senac",
+    working: "IAM/GRC @ Stefanini Cyber",
+    learning: ["CompTIA Security+", "Advanced Golang"],
+    seeking: "Secure Development opportunities"
+};
+```
+
+### 🌌 The Void Speaks
+> *"Every bug fixed is a step deeper into mastery.  
+> Every secure line of code is a light in the darkness."*
 
 ---
 
-## ⚔️ Onde estou agora
+```
+                    ░░░░░░░░░░░░░░░░░░░░░░░░░░
+                   ░░   Made with void   ░░
+                    ░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-- 🧪 Estagiando em **Governança de Acessos (IAM/GRC)** na **Stefanini Cyber**
-- 🔒 Aprendendo e praticando **Application Security (AppSec)** e **Secure Development**
-- 🧠 Estudando **Go (Golang)**, segurança em APIs e autenticação JWT
-- 📚 Cursos ativos: CompTIA Security+, AppSec, AWS Security
+**Contact signals from the depths:**  
+📧 kayquealekssey@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/kayquesza)  
+📍 São Paulo, SP - Brazil
+
+*"In Silksong we trust... but secure code we verify."* 🦋
 
 ---
-
-## ⚙️ Habilidades e Ferramentas
-
-```txt
-Linguagens     ::  Go • C • C# • Java • SQL • Python  
-Segurança      ::  AppSec • IAM • GRC • Secure Coding  
-Dev Tools      ::  Git • GitHub • Docker • VSCode  
-Sistemas       ::  Linux • Windows  
-Idiomas        ::  Português (nativo), Inglês (intermediário técnico)
-
-🌱 Em construção
-
-Atualmente estou trabalhando em projetos pessoais para aplicar:
-
-    Desenvolvimento seguro desde o início (shift-left)
-
-    Boas práticas em APIs RESTful com autenticação e validação
-
-    Aplicações simples com código limpo, comentado e seguro
-
-Alguns repositórios estarão abertos em breve. Outros, em gestação silenciosa.
-📫 Onde me encontrar
-
-    🔗 LinkedIn
-
-    🧠 Meu currículo (ou disponível sob demanda)
-
-<p align="center"><sub><i>"The path is winding, but the purpose is steady."</i></sub></p> ```
+<sub>Last explored: `new Date().toLocaleDateString()`</sub>
