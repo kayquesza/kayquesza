@@ -14,7 +14,7 @@
 
 Olá! Sou um profissional em transição de carreira para a área de **Cibersegurança**, com foco direcionado para **Application Security (AppSec)** e **Desenvolvimento Seguro**.
 
-Minha trajetória me deu uma base sólida em design e comunicação, que hoje combino com a lógica da programação para criar soluções que são não apenas funcionais, mas também intuitivas e seguras. Atualmente como **Estagiário em Governança de Acessos (IAM/GRC)**, estou fortalecendo meu entendimento sobre controles de segurança em ambientes corporativos, enquanto me aprofundo tecnicamente em **Go** e **Python** para atuar na linha de frente do desenvolvimento.
+Minha trajetória me deu uma base sólida em design e comunicação, que hoje combino com a lógica da programação para criar soluções que são não apenas funcionais, mas também intuitivas e seguras. Atualmente como **Estagiário em Segurança da Informação (IAM/GRC)**, estou fortalecendo meu entendimento sobre controles de segurança em ambientes corporativos, enquanto me aprofundo tecnicamente em **Go** e **Python** para atuar na linha de frente do desenvolvimento.
 
 Meu objetivo é claro: me tornar um especialista **DevSecOps**, capaz de integrar práticas de segurança em todo o ciclo de vida do desenvolvimento de software.
 
